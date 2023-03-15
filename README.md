@@ -1,4 +1,4 @@
-# comp202_2021_spring_HW1
+# comp202_2023_spring_HW1
 
 Note: In case you are using repl.it, type first "javac *.java" to be able to run HW1.java file
 
